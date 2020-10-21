@@ -1,0 +1,291 @@
+.no-data {
+    color: rgb(192, 192, 192);
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 100px;
+}
+
+.select2-container .select2-search__field,
+.select2-container .select2-input {
+    width: 100% !important;
+}
+
+.top_nav .navbar-right li.active a {
+	background-color: #ced1d9;
+}
+
+.title_center {
+	float: left;
+	display: block;
+	text-align: center;
+}
+
+.nav_title {
+	float: none;
+	width: 100%;
+}
+
+.site_title {
+	font-weight: bold;
+	text-align: center;
+}
+
+.site_title i {
+	border: none;
+	padding: 5px 10px 5px 0;
+}
+
+.x_content p {
+	line-height: 1.5;
+}
+
+div#content {
+	margin-top: 15px;
+}
+
+#login-wrapper {
+	margin-top: 250px;
+	padding: 30px;
+	background: white;
+	padding-bottom: 30px;
+}
+
+#login-wrapper h2 {
+	margin: 10px auto 5px auto;
+	font-size: 22px;
+}
+
+#login-wrapper #undertext {
+	margin-bottom: 30px;
+}
+
+#logo {
+	width: 100%;
+	max-height: 240px;
+}
+
+.align_center {
+	text-align: center;
+}
+
+.animated {
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
+}
+
+ul.wizard_steps {
+	padding-left: 0;
+}
+
+ul.wizard_steps span.step_no {
+	color: #fff;
+}
+
+ul.wizard_steps span.step_descr {
+	color: #34495E;
+}
+
+.form_wizard .stepContainer {
+	padding: unset;
+	overflow: unset;
+}
+
+.form-group {
+	margin-bottom: 15px;
+}
+
+img.passport {
+	width: 165.2px;
+	height: 212.4px;
+	border: 2px solid #73879C;
+	margin: 20px auto;
+}
+
+div.passport-div label {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+div.passport-div div {
+	text-align: center;
+}
+
+.form-control-feedback {
+	margin-top: 4px;
+}
+
+.form-control-feedback.left {
+	left: 4px;
+}
+
+.select2-wrapper .select2-container {
+	width: 100% !important;
+}
+
+.parsley-errors-list {
+	margin-bottom: 0;
+}
+
+.margin-bottom {
+	margin-bottom: 30px;
+}
+
+.dashboard-widget-content {
+	padding: 2px;
+}
+
+.dashboard-widget-content .sidebar-widget {
+	border: none;
+	width: 70%;
+	margin: auto;
+	display: block;
+	float: unset;
+}
+
+#percentage-completed {
+	width: 374px !important;
+	height: 200px !important;
+}
+
+.margin-right {
+	margin-right: 30px;
+}
+
+.phone-field label {
+	display: block;
+}
+
+.phone-field .intl-tel-input {
+	width: 100%;
+}
+
+.custom-modal .modal-content{
+	border-radius: 0px !important;
+}
+
+.menu-icon{
+	height: 20px;
+	width: 20px;
+	float: left;
+	margin-right:10px;
+}
+
+button, input[type=submit], input[type=button], a.btn {
+	border-radius: 0 !important;
+}
+
+.input-custom-height{
+	height: 38px !important;
+}
+
+#uploaded-item-image, #update-uploaded-item-image{
+	width: 100%;
+	max-height: 400px;
+	margin-bottom: 10px;
+}
+
+.margin-top {
+	margin-top: 20px;
+}
+
+.table-link {
+	color: lightseagreen;
+	font-weight: bold;
+}
+
+.x_content {
+	min-height: 800px;
+}
+
+.menu-bar {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.profile {
+	margin-left: 25%;
+}
+
+.timetable-heading {
+	font-size: 1.1em;
+	padding: 10px;
+}
+
+.toolbar-button {
+	margin-top: 22px;
+}
+
+.toolbar-button button {
+	height: 40px;
+}
+
+.timetable-course {
+	font-weight: bold;
+	font-size: 1.5em;
+	margin-bottom: 30px;
+}
+
+.timetable-schedule {
+	padding: 10px;
+}
+
+.timetable-day {
+	padding-top: 30%;
+}
+
+.app-heading {
+	font-size: 1.8em;
+	margin-bottom: 60px;
+	font-weight: bold;
+}
+
+body.login , body.users ,body.request_reset, body.reset_password {
+	background: url('/images/login_bg.jpg');
+	-webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+    padding: 0;
+	margin: 0;
+	min-height: 1200px;
+}
+
+.bold {
+	font-weight: bold !important;
+}
+
+.incidents-panel {
+	border: 1px solid grey;
+}
+
+.incidents-panel-header {
+	padding: 20px;
+	border-bottom: 1px solid grey;
+}
+
+.incidents-panel-body {
+	padding: 20px;
+}
+
+.incidents-panel-body p {
+	text-align: justify;
+}
+
+body .container.body .right_col {
+	background: #F5FFFA;
+}
+
+.page-title {
+	color: teal;
+	font-weight: bold;
+}
+
+.site_title {
+	color: #F0E68C	!important;
+}
+
+#resource-container table th {
+	color: teal;
+}

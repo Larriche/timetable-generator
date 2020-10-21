@@ -1,0 +1,3 @@
+Kufuor Block || A7(190), A8(190), A9(190), A10(190)
+Aboagye Menyeh Complex || B23(180), GF17(150)|GF18(150) , GF19(150), FF1(300)|FF5(300)|FF24(200) , SF1(300), SF7(200)|SF8(100), SF19(200)|SF20(200) , TF1(300)|TF34(200)
+WB Whitaker Block || P13(100),P23(100)
